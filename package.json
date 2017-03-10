@@ -20,7 +20,7 @@
   "directories": {
     "test": "test"
   },
-  "author": "",
+  "author": "Hiroshi Takase",
   "license": "MIT",
   "description": "Detects surrogate pairs in sentences."
 }

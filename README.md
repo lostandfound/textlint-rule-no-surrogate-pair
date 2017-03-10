@@ -19,7 +19,7 @@ Via `.textlintrc`(Recommended)
 ```json
 {
     "rules": {
-        "surrogate-pair": true
+        "no-surrogate-pair": true
     }
 }
 ```
