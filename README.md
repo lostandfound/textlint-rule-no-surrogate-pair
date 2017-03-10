@@ -2,6 +2,10 @@
 
 Detects surrogate pairs (D800-DBFF and DC00-DFFF)　in sentences.
 
+文章の中でUnicodeのサロゲートペアの文字が使われていると検出します。サロゲートペアの文字は一部の電子書籍のリーディングシステムで表示ができないため注意が必要です。
+
+参考：[電書ラボEPUB制作仕様](http://densholab.jp/page-29/page-70) 2016.07.28　β0.99
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
