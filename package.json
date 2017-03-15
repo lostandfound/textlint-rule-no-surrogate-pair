@@ -20,6 +20,10 @@
   "directories": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostandfound/textlint-rule-no-surrogate-pair.git"
+  },
   "author": "Hiroshi Takase",
   "license": "MIT",
   "description": "Detects surrogate pairs in sentences."
